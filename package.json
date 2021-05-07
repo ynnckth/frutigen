@@ -1,7 +1,8 @@
 {
   "name": "frutigen",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://ynnckth.github.io/frutigen/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
